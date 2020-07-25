@@ -4,7 +4,7 @@
 
 1. Python 3.6 
 
-## Installation (For Ubuntu 18.04 - Virtual Environment)
+## Installation (For Ubuntu 18.04 - Virtual Environment - Offline)
 
 1. Run `sudo apt-get install -y python3-pip`
 2. Run `sudo pip3 install virtualenv` 
@@ -13,7 +13,12 @@
 5. You also can run `workon ENVIRONMENT_NAME` to get the shell.
 6. To install requirement packages `pip install -r requirements.txt`
 7. To install packages run `pip3 install <some-package>`
-8. To deactivate run `deactivate` on the shell.
+8. Run your project in virtual environment when you are in IDE.
+9. To deactivate run `deactivate` on the shell.
+
+## Submission
+
+All the submitted code is in `intro-to-dl-folder`
 
 
 ## Others

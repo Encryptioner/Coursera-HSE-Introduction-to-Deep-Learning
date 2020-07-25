@@ -1,0 +1,29 @@
+intro-to-dl/.ipynb_checkpoints
+intro-to-dl/.DS_Store
+intro-to-dl/.idea
+intro-to-dl/readonly
+intro-to-dl/__pycache__
+intro-to-dl/*.pyc
+
+# week 2
+intro-to-dl/tensorboard_logs
+
+# week3
+intro-to-dl/102flowers.tgz
+intro-to-dl/imagelabels.mat
+
+# week4
+intro-to-dl/lfw-deepfunneled.tgz
+intro-to-dl/lfw.tgz
+intro-to-dl/lfw_attributes.txt
+
+# week6
+intro-to-dl/captions_train-val2014.zip
+intro-to-dl/train2014_sample.zip
+intro-to-dl/train_img_embeds.pickle
+intro-to-dl/train_img_fns.pickle
+intro-to-dl/val2014_sample.zip
+intro-to-dl/val_img_embeds.pickle
+intro-to-dl/val_img_fns.pickle
+
+.vscode/*
