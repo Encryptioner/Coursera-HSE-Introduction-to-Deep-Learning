@@ -1,5 +1,23 @@
 # Introduction to Deep Learning
 
+## Requirements
+
+1. Python 3.6 
+
+## Installation (For Ubuntu 18.04 - Virtual Environment)
+
+1. Run `sudo apt-get install -y python3-pip`
+2. Run `sudo pip3 install virtualenv` 
+3. Run `virtualenv ENVIRONMENT_NAME`. You can Run it in your home/project directory. It will be then operated from there.
+4. To active find `.virtualenvs` folder & run `source ENVIRONMENT_NAME/bin/activate`. You will get shell.
+5. You also can run `workon ENVIRONMENT_NAME` to get the shell.
+6. To install requirement packages `pip install -r requirements.txt`
+7. To install packages run `pip3 install <some-package>`
+8. To deactivate run `deactivate` on the shell.
+
+
+## Others
+
 Course can be found [here](https://www.coursera.org/learn/intro-to-deep-learning)
 
 Notebook for quick search can be found [here](https://ssq.github.io/2017/11/19/Coursera%20HSE%20Advanced%20Machine%20Learning%20Specialization/)
