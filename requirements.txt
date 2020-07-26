@@ -49,6 +49,7 @@ numpy==1.18.3
 oauthlib==3.1.0
 opencv-python==4.3.0.36
 opt-einsum==3.2.1
+pandas==1.0.5
 pandocfilters==1.4.2
 parso==0.7.0
 pexpect==4.8.0
@@ -66,6 +67,7 @@ pyparsing==2.4.7
 pyrsistent==0.16.0
 python-dateutil==2.8.1
 python-utils==2.4.0
+pytz==2020.1
 PyYAML==5.3.1
 pyzmq==19.0.0
 qtconsole==4.7.3
