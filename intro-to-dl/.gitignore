@@ -11,6 +11,8 @@ tensorboard_logs
 # week3
 102flowers.tgz
 imagelabels.mat
+week3/cifar.*.h5
+week3/flowers.*.h5
 
 # week4
 lfw-deepfunneled.tgz
