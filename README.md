@@ -18,7 +18,7 @@
 
 ## Submission
 
-All the submitted code is in `intro-to-dl` folder. Download necessary resources from running `download_resources.ipynb`
+All the submitted code is in `intro-to-dl` folder. Download necessary resources by running `download_resources.ipynb`
 
 
 ## Others
