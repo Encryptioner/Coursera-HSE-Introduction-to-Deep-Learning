@@ -4,6 +4,8 @@
 
 1. Python 3.6 
 
+Note: My implementation for `coursera solution` used `tensorflow 2.1.0`
+
 ## Installation (For Ubuntu 18.04 - Virtual Environment - Offline)
 
 1. Run `sudo apt-get install -y python3-pip`
